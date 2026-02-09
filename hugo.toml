@@ -1,4 +1,4 @@
-baseURL = 'https://r-rai.github.com/'
+baseURL = 'https://r-rai.github.io/'
 languageCode = 'en-us'
 title = 'Ravi Rai'
 theme = "coder"
