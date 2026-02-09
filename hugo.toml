@@ -2,6 +2,7 @@ baseURL = 'https://r-rai.github.io/'
 languageCode = 'en-us'
 title = 'Ravi Rai'
 theme = "coder"
+publishDir = "docs"
 
 [menu]
   [[menu.main]]
