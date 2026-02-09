@@ -1,0 +1,36 @@
+baseURL = 'https://r-rai.github.com/'
+languageCode = 'en-us'
+title = 'Ravi Rai'
+theme = "coder"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
+
+[pagination]
+  pagerSize = 10
+
+
+[params]
+  author = "Ravi Rai"
+  info = "Integration, Cloud, and AI"
+  description = "Notes on APIs, architecture, and systems that survive production"
+  keywords = "api, architecture, integration, webmethods, cloud, ai"
+  avatarURL = "images/avatar.jpg"
+
+[[params.social]]
+  name = "GitHub"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/r-rai"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/ravikumarrai"
