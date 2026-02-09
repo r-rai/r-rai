@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ravi Rai</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ravi Rai</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am an Integration Specialist with over 10 years of experience in enterprise application integration, specializing in on-premise and hybrid cloud integration solutions using the IBM webMethods product suite. I have a strong background in cloud integration, enabling businesses to leverage the benefits of cloud-based platforms while ensuring seamless connectivity and data flow across systems.&lt;/p&gt;&#xA;&lt;p&gt;I have a proven ability for strategic planning, meticulous organization, and efficient prioritization. I can swiftly comprehend and assimilate new technologies to develop innovative business solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;You can print this page to save it as a PDF.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;integration-consultant&#34;&gt;&#xD;&#xA;  Integration Consultant&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#integration-consultant&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integration specialist having 9+ years of experience in enterprise application integration, specializing in both on-premise and hybrid integration solutions through the utilization of the IBM webMethods product suite.&lt;/li&gt;&#xA;&lt;li&gt;Have a strong background in cloud integration, enabling businesses to leverage the benefits of cloud-based platforms while ensuring seamless connectivity and data flow across systems.&lt;/li&gt;&#xA;&lt;li&gt;Exemplary aptitude for strategic planning, meticulous organization, and efficient prioritization, enabling the timely completion of projects while consistently upholding the highest levels of customer satisfaction.&lt;/li&gt;&#xA;&lt;li&gt;Demonstrated proficiency in swiftly comprehending and assimilating new technologies, adeptly applying them to develop innovative business solutions.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;&#xD;&#xA;  Skills&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#skills&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Core Java, Flow Language, XSLT&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Database&lt;/strong&gt;: IBM DB2, MySQL, Oracle SQL, SQL Server&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Utilities/Others&lt;/strong&gt;: Azure DevOps, Docker, GIT, HP ALM, JIRA, Postman, Salesforce, SOAP UI&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cloud&lt;/strong&gt;: AWS, AWS ECS, GCP&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Integration tools and methodologies&lt;/strong&gt;: API Gateway, Deployer, Flat files, FTP, iPaaS, JDBC Adapter, JMS, JSON, Microservices Runtime, MQ Adapter, Pub - Sub, REST, SFTP, webMethods Integration Server 8.x, 9.x, 10.x, webMethods.io, XML&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;work-experience&#34;&gt;&#xD;&#xA;  Work Experience&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#work-experience&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Staff Engineer&lt;/strong&gt;&#xA;&lt;em&gt;Nagarro • Bengaluru, IN • 09/2023 - Present&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
