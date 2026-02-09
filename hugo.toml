@@ -24,6 +24,7 @@ publishDir = "docs"
   description = "Notes on APIs, architecture, and systems that survive production"
   keywords = "api, architecture, integration, webmethods, cloud, ai"
   avatarURL = "images/avatar.jpg"
+  colorScheme = "auto"
 
 [[params.social]]
   name = "GitHub"
