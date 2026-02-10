@@ -35,3 +35,6 @@ theme = "coder"
   icon = "fa fa-linkedin"
   weight = 2
   url = "https://www.linkedin.com/in/ravikumarrai"
+
+[markup.goldmark.renderer]
+  unsafe = true
