@@ -4,8 +4,6 @@ date: 2026-02-11
 draft: false
 ---
 
-## About
-
 I design integration systems that are meant to endure.
 
 In enterprise environments, complexity accumulates quietly — through APIs, middleware, security layers, logging pipelines, and cross-team dependencies. My work has focused on turning that complexity into systems that remain stable, observable, and predictable under production pressure.
