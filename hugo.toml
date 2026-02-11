@@ -32,6 +32,8 @@ theme = "coder"
   keywords = "api, architecture, integration, webmethods, cloud, ai"
   avatarURL = "images/avatar.jpg"
   colorScheme = "auto"
+  favicon_32 = "/images/favicon/favicon_32.png"
+  favicon_16 = "/images/favicon/favicon_16.png"
 
 [[params.social]]
   name = "GitHub"
@@ -43,6 +45,11 @@ theme = "coder"
   icon = "fa fa-linkedin"
   weight = 2
   url = "https://www.linkedin.com/in/ravikumarrai"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope"
+  weight = 3
+  url = "mailto:ravi@ravirai.in"
 
 [markup.goldmark.renderer]
   unsafe = true
