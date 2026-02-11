@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Ravi Rai'
 theme = "coder"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [menu]
   [[menu.main]]
     name = "About"
@@ -12,6 +16,10 @@ theme = "coder"
     name = "Resume"
     url = "/resume/"
     weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
 
 [pagination]
   pagerSize = 10
